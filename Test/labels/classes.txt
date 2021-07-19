@@ -1,0 +1,8 @@
+Central Incisor
+Lateral Incisor
+Canine
+1st Premolar
+2nd Premolar
+1st Molar
+2nd Molar
+3rd Molar
