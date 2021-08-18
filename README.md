@@ -17,4 +17,3 @@ The three sources above is a video source then, we extract it by frame using Ope
 
 
 ![MicrosoftTeams-image](https://user-images.githubusercontent.com/54162792/129899126-7c478b1c-1ade-43e5-9447-1713f8cd569f.png)
-![MicrosoftTeams-image (1)](https://user-images.githubusercontent.com/54162792/129899174-6d671174-c371-4437-b53a-fd28a31d710c.png)
